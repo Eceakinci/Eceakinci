@@ -9,9 +9,9 @@ where I’m focusing on **data science**, **Python**, **R**, and **machine learn
 
 - 🔭 I'm currently pursuing my Master's in Artificial Intelligence at BTU.
 
-- 🌱 Currently developing a web scraper.
+- 🌱 Currently developing a web scraper using Python, pandas, numpy, and Playwright.
 
-- 👨🏻‍💻 My Stack:
+- 👨🏻‍💻 My Stack: <br/>
 [![My Skills](https://skillicons.dev/icons?i=python,r,matlab,js,mysql,react,next,jquery,html,css,tailwindcss,git)](https://skillicons.dev)
 
 
