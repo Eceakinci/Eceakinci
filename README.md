@@ -14,12 +14,14 @@ where I’m focusing on **data science**, **Python**, **R**, and **machine learn
 - 👨🏻‍💻 My Stack:
   <br/>
    <br/>
-    [![My Skills](https://skillicons.dev/icons?i=python,r,matlab,js,mysql,react,next,jquery,html,css,tailwindcss,git)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=python,r,matlab,js,mysql,react,next,jquery,html,css,tailwindcss,sass,git)](https://skillicons.dev)
 
 
 ## 📬 Get in Touch
-[<img align="left" alt="ece-akinci | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](https://www.kaggle.com/eceakinci)
-[<img align="left" alt="ece-akinci | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />](https://www.linkedin.com/in/ece-akinci/)
-[<img align="left" alt="ece-akinci | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/eceeakincii/)
-[<img align="left" alt="ece-akinci | Last.fm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/last-dot-fm.svg" />](https://www.last.fm/user/looryboory)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle)](https://www.kaggle.com/eceakinci)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ece-akinci/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/eceeakincii/)
+[![Last.fm](https://img.shields.io/badge/Last.fm-D51007?logo=last.fm)](https://www.last.fm/user/looryboory)
+
 
