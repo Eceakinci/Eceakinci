@@ -11,8 +11,10 @@ where I’m focusing on **data science**, **Python**, **R**, and **machine learn
 
 - 🌱 Currently developing a web scraper using Python, pandas, numpy, and Playwright.
 
-- 👨🏻‍💻 My Stack: <br/>
-[![My Skills](https://skillicons.dev/icons?i=python,r,matlab,js,mysql,react,next,jquery,html,css,tailwindcss,git)](https://skillicons.dev)
+- 👨🏻‍💻 My Stack:
+  <br/>
+   <br/>
+    [![My Skills](https://skillicons.dev/icons?i=python,r,matlab,js,mysql,react,next,jquery,html,css,tailwindcss,git)](https://skillicons.dev)
 
 
 ## 📬 Get in Touch
