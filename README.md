@@ -21,7 +21,6 @@ where I’m focusing on **data science**, **Python**, **R**, and **machine learn
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle)](https://www.kaggle.com/eceakinci)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ece-akinci/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/eceeakincii/)
 [![Last.fm](https://img.shields.io/badge/Last.fm-D51007?logo=last.fm)](https://www.last.fm/user/looryboory)
 
 
