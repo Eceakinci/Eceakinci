@@ -1,4 +1,4 @@
-# Hi, I'm Ece 👋
+# Hi, I'm Ece!
 
 I am a former **front-end** developer now diving into **AI** and **data science**.
 Over time, I’ve become especially comfortable working with JavaScript
