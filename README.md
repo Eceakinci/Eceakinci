@@ -7,9 +7,9 @@ frameworks like **React.js**, **Next.js**, and **jQuery** as well as styling too
 Currently, I’m studying for my Master’s in **Artificial Intelligence** at Brandenburg University of Technology,
 where I’m focusing on **data science**, **Python**, **R**, and **machine learning**.
 
-- 🔭 I'm currently pursuing my Master's in Artificial Intelligence at BTU.
+- I'm currently pursuing my Master's in Artificial Intelligence at BTU.
 
-- 🌱 Currently developing a web scraper using Python, pandas, numpy, and Playwright.
+- Currently developing a web scraper that can make predictions about player and team statistics using Python, pandas, numpy, and Playwright.
 
 - 👨🏻‍💻 My Stack:
   <br/>
